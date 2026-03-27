@@ -8,7 +8,7 @@ Currently building:
 
 - **[Cloudless Sky](https://github.com/octid-io/cloudless-sky)** — open implementation of OSMP. Python reference, TypeScript (OpenClaw/web), and Go (PicoClaw/constrained hardware) SDKs. Apache 2.0.
 - **[Root Translation](https://myroot.azurewebsites.net/translator)** — HIPAA-compliant speech-to-speech language access platform.
-- **Oink Medical Group** — chest drainage device for mass casualty and field medicine.
+- **Oink Medical Group** — novel large bore drainage catheter system for mass casualty and field medicine.
 
 Background in product marketing and strategy across health data, clinical informatics, and language access. BS Advertising, UT Austin. MSTC, McCombs School of Business.
 
